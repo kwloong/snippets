@@ -1,13 +1,1 @@
-green
-sustainable
-computing
-carbon
-heated
-green
-kepler
-carbon
-hot
-temperature
-llm
-ai
-wtf
+green, sustainable, computing, carbon, heated, green, kepler, carbon, hot, temperature, llm, ai, 
